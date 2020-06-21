@@ -1,2 +1,2 @@
 # certainty-factor-android
-Sourcecode Android Stuiod Certainty Factor
+Sourcecode Android Studio Certainty Factor
